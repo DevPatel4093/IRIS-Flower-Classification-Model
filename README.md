@@ -21,13 +21,12 @@ This dataset is widely used for **introductory classification tasks** in machine
 ---
 
 ## 📂 Project Structure
-
+```
 IRIS-Flower-Classification/
-
 ├── IRIS.csv
 ├── IRIS Flower Classification.ipynb
 └── README.md
-
+```
 
 ---
 
